@@ -1,0 +1,8 @@
+{
+  "name": "MyCloudstreamRepo",
+  "description": "Mera custom CloudStream repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/MKGamer222/MyCloudstreamRepo/main/plugins.json"
+  ]
+}
