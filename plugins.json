@@ -1,13 +1,19 @@
 {
-    "apiVersion": 1,
-    "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions",
-    "fileSize": 34134,
-    "status": 1,
-    "language": "en",
-    "authors": [],
-    "tvTypes": ["AnimeMovie", "Anime", "OVA"],
-    "version": 2,
-    "internalName": "AnimePaheProvider",
-    "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/AnimePaheProvider.cs3",
-    "name": "AnimePaheProvider"
-}
+        "iconUrl": "https://www.google.com/s2/favicons?domain=bestdubbedanime.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions",
+        "fileSize": 17616,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "DubbedAnimeProvider",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/DubbedAnimeProvider.cs3",
+        "name": "DubbedAnimeProvider"
+    }
