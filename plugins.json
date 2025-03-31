@@ -1,1 +1,13 @@
-9kMovies.-954837707.cs3
+{
+    "apiVersion": 1,
+    "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions",
+    "fileSize": 34134,
+    "status": 1,
+    "language": "en",
+    "authors": [],
+    "tvTypes": ["AnimeMovie", "Anime", "OVA"],
+    "version": 2,
+    "internalName": "AnimePaheProvider",
+    "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/AnimePaheProvider.cs3",
+    "name": "AnimePaheProvider"
+}
