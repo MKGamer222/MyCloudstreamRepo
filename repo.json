@@ -1,8 +1,8 @@
 {
   "name": "MyCloudstreamRepo",
-  "description": "Mera custom CloudStream repository",
+  "description": "Mera pehla CloudStream repository",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://github.com/MKGamer222/MyCloudstreamRepo/blob/main/plugins.json"
+    "https://raw.githubusercontent.com/MKGamer222/MyCloudStreamRepo/main/plugins.json"
   ]
 }
